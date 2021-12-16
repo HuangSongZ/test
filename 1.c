@@ -7,5 +7,6 @@ int main() {
     printf("d\n");
     printf("e\n");
     printf("f\n");
+    printf("g\n");
     return 0;
 }
