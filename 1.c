@@ -6,5 +6,6 @@ int main() {
     printf("c\n");
     printf("d\n");
     printf("e\n");
+    printf("f\n");
     return 0;
 }
