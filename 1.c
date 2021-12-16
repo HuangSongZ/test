@@ -4,6 +4,6 @@ int main() {
     printf("a\n");
     printf("b\n");
     printf("c\n");
-    printf("d2\n");
+    printf("d\n");
     return 0;
 }
