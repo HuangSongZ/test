@@ -10,5 +10,6 @@ int main() {
     printf("g\n");
     printf("h\n");
     printf("i\n");
+    printf("j\n");
     return 0;
 }
