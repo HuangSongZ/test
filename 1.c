@@ -8,5 +8,6 @@ int main() {
     printf("e\n");
     printf("f\n");
     printf("g\n");
+    printf("h\n");
     return 0;
 }
